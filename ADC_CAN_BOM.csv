@@ -1,0 +1,20 @@
+Reference;Qty;Value;DNP;Exclude from BOM;Exclude from Board;Exclude from Simulation;Exclude from Position Files;Footprint;Datasheet
+C1;1;10uF;;;;;${EXCLUDE_FROM_POS_FILES};Capacitor_SMD:C_0805_2012Metric;https://product.samsungsem.com/resources/file/product-catalog/MLCC_Automotive_2401.pdf?utm_source=chatgpt.com
+C2,C3,C4,C5,C6,C8,CHF1;7;100nF;;;;;${EXCLUDE_FROM_POS_FILES};Capacitor_SMD:C_0603_1608Metric;https://product.samsungsem.com/resources/file/product-catalog/MLCC_Automotive_2401.pdf?utm_source=chatgpt.com
+C7;1;4,7uF;;;;;${EXCLUDE_FROM_POS_FILES};Capacitor_SMD:C_0805_2012Metric;https://product.samsungsem.com/resources/file/product-catalog/MLCC_Automotive_2401.pdf?utm_source=chatgpt.com
+CBOOT1;1;0.1uF;;;;;${EXCLUDE_FROM_POS_FILES};Capacitor_SMD:C_0603_1608Metric;https://product.samsungsem.com/resources/file/product-catalog/MLCC_Automotive_2401.pdf?utm_source=chatgpt.com
+Cn1;1;2.2uF;;;;;${EXCLUDE_FROM_POS_FILES};Capacitor_SMD:C_0805_2012Metric;https://product.samsungsem.com/resources/file/product-catalog/MLCC_Automotive_2401.pdf?utm_source=chatgpt.com
+Cvcc1;1;1uF;;;;;${EXCLUDE_FROM_POS_FILES};Capacitor_SMD:C_0603_1608Metric;https://product.samsungsem.com/resources/file/product-catalog/MLCC_Automotive_2401.pdf?utm_source=chatgpt.com
+D1;1;SS34;;;;;${EXCLUDE_FROM_POS_FILES};Diode_SMD:D_SMA;https://www.onsemi.com/pdf/datasheet/ss39-d.pdf
+D4,D5;2;SM4T21AY;;;;;${EXCLUDE_FROM_POS_FILES};Diode_SMD:D_SMA;https://www.st.com/resource/en/datasheet/cd00283395.pdf
+D6;1;ESD2CAN24DBZRQ1;;;;;${EXCLUDE_FROM_POS_FILES};ESD2CAN24DBZRQ1:SOT-23_DBZ_TEX;https://www.ti.com/lit/ds/symlink/esd2can24-q1.pdf?ts=1793166872850
+J1;1;POWER_IN;;;;;${EXCLUDE_FROM_POS_FILES};691101710002:CONN2_WR-TBL-SERIES101_691101710002_WRE;https://www.we-online.com/catalog/datasheet/691137710002.pdf
+J2,J3;2;Conn_01x02;;;;;${EXCLUDE_FROM_POS_FILES};Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical;https://www.lcsc.com/datasheet/C158012.pdf
+J4;1;Conn_01x03;;;;;${EXCLUDE_FROM_POS_FILES};691101710003:CONN3x1_691101710003_WRE;https://www.we-online.com/components/products/datasheet/691101710003.pdf
+J5;1;Conn_01x05;;;;;${EXCLUDE_FROM_POS_FILES};Connector_JST:JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical;https://www.mouser.pl/datasheet/3/1070/1/eXH.pdf
+L1;1;15uH;;;;;${EXCLUDE_FROM_POS_FILES};Inductor_SMD_Wurth:L_Wurth_WE-LQSH-3012;https://www.mouser.pl/datasheet/3/995/1/lps5030.pdf
+R1,R4;2;47k;;;;;${EXCLUDE_FROM_POS_FILES};Resistor_SMD:R_0603_1608Metric;https://industrial.panasonic.com/ww/products/pt/anti-sulfurated-chip-resistors/models/ERJS03F4702V
+R3,R5,R6,R8;4;10k;;;;;${EXCLUDE_FROM_POS_FILES};Resistor_SMD:R_0603_1608Metric;https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf
+U1;1;LMR36503-Q1-3V3;;;;;${EXCLUDE_FROM_POS_FILES};LMR36503MSC3RPERQ1:RPE0009A;https://www.ti.com/lit/ds/symlink/lmr36503e-q1.pdf?ts=1793173241025&ref_url=https%253A%252F%252Fwww.google.com
+U2;1;STM32G0B1CCTx;;;;;${EXCLUDE_FROM_POS_FILES};Package_QFP:LQFP-48_7x7mm_P0.5mm;https://www.st.com/resource/en/datasheet/stm32g0b1cc.pdf
+U3;1;TCAN332;;;;;${EXCLUDE_FROM_POS_FILES};Package_SO:SOIC-8_3.9x4.9mm_P1.27mm;http://www.ti.com/lit/ds/symlink/tcan337.pdf

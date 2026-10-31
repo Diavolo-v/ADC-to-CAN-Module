@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# KiCad temporary files
+*.kicad_prl
+*.lck
+**/.history/
+**/_restore_backup_*/
+*-unsaved-*.kicad_prl
+
+# STM32CubeIDE build files
+**/Debug/
+**/Release/
+**/build/
+**/Objects/
+**/Binaries/
+
+# IDE metadata
+**/.settings/
+**/.metadata/
+
+# Temporary files
+*.bak
+*.tmp
+*.swp
